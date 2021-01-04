@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a Master student in Computer Science at the University of Washington, advised by [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/). I do research in natural language processing and machine learning. My research aims at **interpretability**, **reasoning**, **robustness**, and **generalization**.
+I’m a Master student in Computer Science at the University of Washington, advised by [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/) and [Shane Steinert-Threlkeld](https://www.shane.st/). I do research in natural language processing and machine learning. My research aims at **interpretability**, **reasoning**, **robustness**, and **generalization**.
 
 I am working on the [AllenNLP](https://allennlp.org/) team at [AI2](http://allenai.org/), and I completed my bachelar in NLP at the University of Washington. 
 
