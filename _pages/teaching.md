@@ -2,10 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Materials for courses I taught.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+* [CSE 446/546: Machine Learning (2020 Autumn)](https://courses.cs.washington.edu/courses/cse446/20au/)
+* [CSE 446/546: Machine Learning (2020 Spring)](https://courses.cs.washington.edu/courses/cse446/20sp/)
+* [CSE 446: Machine Learning (2019 Autumn)](https://courses.cs.washington.edu/courses/cse446/19au/)
+* [CSE 446: Machine Learning (2019 Spring)](https://courses.cs.washington.edu/courses/cse446/20sp/)
