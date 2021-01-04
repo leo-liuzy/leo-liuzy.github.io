@@ -21,5 +21,6 @@ I’m a Master student in Computer Science at the University of Washington, advi
 
 I am working on the [AllenNLP](https://allennlp.org/) team at [AI2](http://allenai.org/), and I completed my bachelar in NLP at the University of Washington. 
 
+[CV](./assets/pdf/Leo_CV.pdf)
 <!-- My name is written as 刘泽宇 in Chinese characters. -->
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
