@@ -54,8 +54,8 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
-contact_note: >
-  If you are interested in my reserach, please do not hesitate to contact via email！
+# contact_note: >
+  # If you are interested in my reserach, please do not hesitate to contact via email！
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
