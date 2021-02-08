@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I’m a Master student in Computer Science at the University of Washington, advised by [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/) and [Shane Steinert-Threlkeld](https://www.shane.st/). I do research in natural language processing and machine learning. My research aims at **interpretability**, **reasoning**, **robustness**, **generalization**, and intersection between NLP and Linguistics.
 
-I am working on the [AllenNLP](https://allennlp.org/) team at [AI2](http://allenai.org/), and I completed my bachelar in NLP at the University of Washington. 
+I am working on the [AllenNLP](https://allennlp.org/) team at [AI2](http://allenai.org/), and I completed my bachelar in Computer Science at the University of Washington. 
 
 
 **[C.V.](./assets/pdf/Leo_CV.pdf)**
