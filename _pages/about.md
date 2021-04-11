@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a Master student in Computer Science at the University of Washington, advised by [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/) and [Shane Steinert-Threlkeld](https://www.shane.st/). I do research in natural language processing and machine learning. My research aims at **interpretability**, **robustness**, **generalization**, **multilingual**, and intersection between NLP and Linguistics. I completed my bachelar in Computer Science at the University of Washington.
+I’m a Master student in Computer Science at the University of Washington, advised by [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/) and [Shane Steinert-Threlkeld](https://www.shane.st/). I do research in natural language processing and machine learning. My research aims at **interpretability**, **multilingual**, and intersection between NLP and Linguistics. I completed my bachelar in Computer Science at the University of Washington.
 
 In Summer 2021, I will attend USC ISI internship!
 
