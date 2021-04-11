@@ -17,11 +17,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a Master student in Computer Science at the University of Washington, advised by [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/) and [Shane Steinert-Threlkeld](https://www.shane.st/). I do research in natural language processing and machine learning. My research aims at **interpretability**, **reasoning**, **robustness**, **generalization**, and intersection between NLP and Linguistics.
+I’m a Master student in Computer Science at the University of Washington, advised by [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/) and [Shane Steinert-Threlkeld](https://www.shane.st/). I do research in natural language processing and machine learning. My research aims at **interpretability**, **robustness**, **generalization**, **multilingual**, and intersection between NLP and Linguistics. I completed my bachelar in Computer Science at the University of Washington.
 
-I am working on the [AllenNLP](https://allennlp.org/) team at [AI2](http://allenai.org/), and I completed my bachelar in Computer Science at the University of Washington. 
+In Summer 2021, I will attend USC ISI internship!
 
+<!-- In Winter 2021, I was the [AllenNLP](https://allennlp.org/) team at [AI2](http://allenai.org/), and I completed my bachelar in Computer Science at the University of Washington. -->
 
 **[C.V.](./assets/pdf/Leo_CV.pdf)**
+
 <!-- My name is written as 刘泽宇 in Chinese characters. -->
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+
