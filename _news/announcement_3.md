@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-In Autumn 2021, I will join Facebook AI Residency Program.
+In Autumn 2021, I will join the [Facebook AI Residency Program](https://ai.facebook.com/join-us/residency-program/).
