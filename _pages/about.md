@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: my_pic.jpg
+  image: my_pic_catalina_island.jpg
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
