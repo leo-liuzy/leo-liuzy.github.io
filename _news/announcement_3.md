@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: post
-date: April 16, 2021
+date: Apr 15, 2021
 inline: true
 ---
 
 
-In Autumn 2021, I will join the [Facebook AI Residency Program](https://ai.facebook.com/join-us/residency-program/). -->
+Our paper [Emergent Communication Fine-tuning (EC-FT) for Pretrained Language Models](https://openreview.net/forum?id=SUqrM7WR7W5) is selected as the runner-up best paper for ICLR Emecom!
