@@ -1,8 +1,8 @@
 ---
 layout: post
-date: Feb 25, 2021
+date: Aug 26, 2021
 inline: true
 ---
 
 
-In Summer 2021, I will attend [USC Information Sciences Institute](https://www.isi.edu/) internship.
+Our paper [Probing Across Time: What Does RoBERTa Know and When?](https://aclanthology.org/2021.findings-emnlp.71.pdf) will appear at EMNLP Finding 2021!
