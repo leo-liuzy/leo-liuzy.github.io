@@ -2,7 +2,7 @@
 
 @inproceedings{auto-gen-contrast-set,
   abbr={BlackboxNLP},
-  author = "{Chuanrong Li*, Lin Shengshuo*, \textbf{Leo Z. Liu}*, Xinyi Wu*, Xuhui Zhou* and Shane Steinert-Threlkeld}",
+  author = "{Chuanrong Li*, Lin Shengshuo*, Leo Z. Liu*, Xinyi Wu*, Xuhui Zhou* and Shane Steinert-Threlkeld}",
   title = "Linguistically-Informed Transformations (LIT): A Method for Automatically Generating Contrast Sets",
   abstract={Although large-scale pretrained language models, such as BERT and RoBERTa, have achieved superhuman performance on in-distribution test sets, their performance suffers on out-of-distribution test sets (e.g., on contrast sets). Building contrast sets often re-quires human-expert annotation, which is expensive and hard to create on a large scale. In this work, we propose a Linguistically-Informed Transformation (LIT) method to automatically generate contrast sets, which enables practitioners to explore linguistic phenomena of interests as well as compose different phenomena. Experimenting with our method on SNLI and MNLI shows that current pretrained language models, although being claimed to contain sufficient linguistic knowledge, struggle on our automatically generated contrast sets. Furthermore, we improve models' performance on the contrast sets by apply-ing LIT to augment the training data, without affecting performance on the original data.},
   booktitle = "Proc. of EMNLP BlackboxNLP Workshop (Poster)",
@@ -14,7 +14,7 @@
 
 @inproceedings{dynamic-probing,
   abbr={EMNLP-Finding},
-  author = "{\textbf{Leo Z. Liu}*, Yizhong Wang*, Jungo Kasai, Hannaneh Hajishirzi, and Noah A. Smith}",
+  author = "{Leo Z. Liu*, Yizhong Wang*, Jungo Kasai, Hannaneh Hajishirzi, and Noah A. Smith}",
   title = "Probing Across Time: What Does RoBERTa Know and When?",
   abstract={Models of language trained on very large corpora have been demonstrated useful for NLP. As fixed artifacts, they have become the object of intense study, with many researchers ``probing'' the extent to which linguistic abstractions, factual and commonsense knowledge, and reasoning abilities, they acquire and readily demonstrate.  Building on this line of work, we consider a new question: for types of knowledge a language model learns, when during (pre)training are they acquired? We plot probing performance across iterations, using RoBERTa as a case study. Among our findings:  linguistic knowledge is acquired fast, stably, and robustly across domains.  Facts and commonsense are slower and more domain-sensitive. Reasoning abilities are, in general, not stably acquired. As new datasets, pretraining protocols, and probes emerge, we believe that probing-across-time analyses can help researchers understand the complex, intermingled learning that these models undergo and guide us toward more efficient approaches that accomplish necessary learning faster. },
   booktitle = "arXiv",
@@ -25,7 +25,8 @@
 }
 
 @inproceedings{ec-ft-position,
-  author = "Shane Steinert-Threlkeld and Xuhui Zhou and \textbf{Leo Z. Liu} and C. M. Downey",
+  abbr={ICLR EmeCom},
+  author = "Shane Steinert-Threlkeld and Xuhui Zhou and Leo Z. Liu and C. M. Downey",
   title = "Emergent Communication Fine-tuning (EC-FT) for Pretrained Language Models",
   booktitle = "Proc. of ICLR EmeCom Workshop \textbf{(Runner-up Best Paper)}",
   note = {\url{https://openreview.net/pdf?id=SUqrM7WR7W5}},
@@ -34,11 +35,11 @@
 }
 
 @inproceedings{unified-ffn-in-pretraining,
-  abbr={ICLR 2023 Submission},
-  author = "{\textbf{Leo Z. Liu}, Tim Dettmers, Xi Victoria Lin, Veselin Stoyanov, and Xian Li}",
+  abbr={Submission},
+  author = "{Leo Z. Liu, Tim Dettmers, Xi Victoria Lin, Veselin Stoyanov, and Xian Li}",
   title = "Towards A Unified View of Sparse Feed-Forward Network in Transformer",
   abstract={Large and sparse feed-forward networks ( S-FFN) such as Mixture-of-Experts (MoE) have demonstrated to be an efficient approach for scaling up Transformers model size for pretraining. By only activating part of the FFN parameters conditioning on input, S-FFN improves generalization performance while keeping training cost (in FLOPs) fixed. A growing body of work has been focusing on improving the S-FFN design including routing method and load balancing in thecontext of MoEs. In this work, we make connections between S-FFN and sparse neural memory and present a unified framework to categorize design choices along two axes: memory block size and memory block selection method. Using this unified framework, we compare several S-FFN architectures on language modeling and provide insights into their relative efficacy. For example, smaller memory block size leads to lower perplexity with potentially little extra FLOPs; selection through a gate in general improves the perplexity-FLOPs trade-off but has worse perplexity than selection that doesn’t have gate and uses hidden states. Based on these insights, we propose a new gate — Avg-K that selects blocks through mean aggregated hidden state statistics. With 1% additional FLOPs, Avg-K achieves 2.16 lower perplexity than a vanilla transformer, while Switch Transformer 0.51 lower.},
-  booktitle = "",
+  booktitle = "Submission to ICLR",
   state="accepted",
   year = "2023",
   pdf={"./assets/pdf/_ICLR2023__Towards_A_Unified_View_of_Sparse_Feed_Forward_Network_in_Transformer.pdf"},
