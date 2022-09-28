@@ -38,7 +38,7 @@
   title = "Towards A Unified View of Sparse Feed-Forward Network in Transformer",
   abstract={Large and sparse feed-forward networks ( S-FFN) such as Mixture-of-Experts (MoE) have demonstrated to be an efficient approach for scaling up Transformers model size for pretraining. By only activating part of the FFN parameters conditioning on input, S-FFN improves generalization performance while keeping training cost (in FLOPs) fixed. A growing body of work has been focusing on improving the S-FFN design including routing method and load balancing in thecontext of MoEs. In this work, we make connections between S-FFN and sparse neural memory and present a unified framework to categorize design choices along two axes: memory block size and memory block selection method. Using this unified framework, we compare several S-FFN architectures on language modeling and provide insights into their relative efficacy. For example, smaller memory block size leads to lower perplexity with potentially little extra FLOPs; selection through a gate in general improves the perplexity-FLOPs trade-off but has worse perplexity than selection that doesn’t have gate and uses hidden states. Based on these insights, we propose a new gate — Avg-K that selects blocks through mean aggregated hidden state statistics. With 1% additional FLOPs, Avg-K achieves 2.16 lower perplexity than a vanilla transformer, while Switch Transformer 0.51 lower.},
   booktitle = "",
-  % state="accepted",
+  state="accepted",
   year = "2023",
   pdf={"./assets/pdf/_ICLR2023__Towards_A_Unified_View_of_Sparse_Feed_Forward_Network_in_Transformer.pdf"},
   % note = {(author sorted alphabetically)},
