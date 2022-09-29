@@ -17,9 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I’m a Master student in Computer Science at the University of Washington Seattle, where I am very fortunate to work with [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/) and [Shane Steinert-Threlkeld](https://www.shane.st/).
+Hi! I’m a Master student in Computer Science at the University of Washington Seattle, where I am very fortunate to work with [Professor Noah A. Smith](https://homes.cs.washington.edu/~nasmith/) and [Professor Shane Steinert-Threlkeld](https://www.shane.st/).
 
-In 2020, I completed my bachelar and happily spent my summer with [Xuezhe Ma (Max)](https://xuezhemax.github.io). In 2021, I was a FAIR AI resident with [Xian Li](https://scholar.google.com/citations?user=v_sIgawAAAAJ&hl=en) and [Veselin Stoyanov](https://scholar.google.com/citations?user=xdfWqboAAAAJ&hl=en), working in the FAIR Accelerator Project.
+In 2020, I completed my bachelar and happily spent my summer with [Professor Xuezhe Ma (Max)](https://xuezhemax.github.io). In 2021, I was a FAIR AI resident with [Dr. Xian Li](https://scholar.google.com/citations?user=v_sIgawAAAAJ&hl=en) and [Dr. Veselin Stoyanov](https://scholar.google.com/citations?user=xdfWqboAAAAJ&hl=en), working in the FAIR Accelerator Project.
 
 I am broadly interested in Natural Language Processing and Machine Learning (ML). In particular, I am interested in interpretability and modeling techniques of language models. Moreover, I am interested in Causal Inference and Representation Learning.
 
