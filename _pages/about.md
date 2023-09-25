@@ -20,7 +20,7 @@ Hi! I’m a Ph.D. student in the University of Texas at Austin, happily co-advis
 
 I am broadly interested in Natural Language Processing and Machine Learning (ML). These days, my attention goes to interpretatbility, augmentation, and interactive aspect of LLM. I also have side interest in robot learning.
 
-In the past, I was fortunately a Bachelar and Master student in Computer Science at the University of Washington Seattle, where I am very fortunate to work with [Professor Noah A. Smith](https://homes.cs.washington.edu/~nasmith/) and [Professor Shane Steinert-Threlkeld](https://www.shane.st/). In the past, I was able to work with [Professor Xuezhe Ma (Max)](https://xuezhemax.github.io) as a summer intern; and as an AI resident in the FAIR Accelerator.
+In the past, I was fortunately a Bachelar and Master student in Computer Science at the University of Washington Seattle, where I worked with [Professor Noah A. Smith](https://homes.cs.washington.edu/~nasmith/) and [Professor Shane Steinert-Threlkeld](https://www.shane.st/). In the past, I was able to work with [Professor Xuezhe Ma (Max)](https://xuezhemax.github.io) as a summer intern; and as an AI resident in the FAIR Accelerator.
 
 Thanks to the support of my research mentors, I am fortunate to conduct happy research during my college. I’m happy to help ambitious undergraduate or master students interested in natural language processing or machine learning get started with research --- please feel free to email me!
 
