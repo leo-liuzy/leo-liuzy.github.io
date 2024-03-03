@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I’m a Ph.D. student in the University of Texas at Austin, happily co-advised by [Professor Greg Durrett](https://www.cs.utexas.edu/~gdurrett/) and [Professor Eunsol Choi](https://eunsol.github.io).
+Hi! I’m a Ph.D. student in the University of Texas at Austin, happily co-advised by [Professor Eunsol Choi](https://eunsol.github.io) and [Professor Greg Durrett](https://www.cs.utexas.edu/~gdurrett/).
 
 I am broadly interested in Natural Language Processing and Machine Learning (ML). These days, my attention goes to interpretatbility, augmentation, and interactive aspect of LLM.
 
