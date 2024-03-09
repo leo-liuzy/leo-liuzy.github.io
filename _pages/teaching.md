@@ -5,7 +5,6 @@ title: teaching
 description: Courses I taught.
 nav: true
 ---
-
 * [CSE 447: Natural Language Processing (2022 Autumn)](https://jdm.ai/cse447-au22/)
 * [CSE 446/546: Machine Learning (2021 Spring)](https://courses.cs.washington.edu/courses/cse446/21sp/)
 * [CSE 446/546: Machine Learning (2020 Autumn)](https://courses.cs.washington.edu/courses/cse446/20au/)

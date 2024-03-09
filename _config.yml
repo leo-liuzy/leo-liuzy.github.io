@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Leo
-middle_name: Zeyu
+first_name: Zeyu
+middle_name: Leo
 last_name: Liu 刘泽宇
 # email: 
 # description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -129,7 +129,7 @@ plugins:
 
 scholar:
 
-  last_name: Leo Z. Liu
+  last_name: Zeyu Leo Liu
   first_name: []
 
   style: apa
