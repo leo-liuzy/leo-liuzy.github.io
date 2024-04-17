@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /3rd-person-bio/
-title: 3rd-person Bio
+title: Third-person Bio
 description:
 nav: true
 ---
