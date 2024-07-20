@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: my_pic_canyonland.jpeg
+  image: my_pic_bangkok.jpeg
   # address: >
   #   <p>GDC 3.817D</p>
   #   <p>123 your address street</p>
