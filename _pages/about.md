@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi! I’m a Ph.D. student in the University of Texas at Austin, happily co-advised by [Professor Greg Durrett](https://www.cs.utexas.edu/~gdurrett/) and [Professor Eunsol Choi](https://eunsol.github.io).
 
-I am broadly interested in Natural Language Processing and Machine Learning (ML). These days, my attention goes to the continual/active learning, and reasoning aspect of NLP system.
+I am broadly interested in Natural Language Processing and Machine Learning (ML). These days, my attention goes to the continual learning, and reasoning aspect of NLP system.
 
 In the past, I was a Bachelar and Master student in Computer Science at the University of Washington Seattle, where I worked with [Professor Noah A. Smith](https://homes.cs.washington.edu/~nasmith/) and [Professor Shane Steinert-Threlkeld](https://www.shane.st/). In the past, I was able to work with [Professor Xuezhe Ma (Max)](https://xuezhemax.github.io) as a summer intern. As an AI resident in FAIR, I had the great fortune to receive advices from [Tim Dettmers](https://timdettmers.com), [Xi Victoria Lin](https://victorialin.net),  [Veselin Stoyanov](https://vesko-st.github.io), [Xian Li](https://ai.meta.com/people/xian-li/), and [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz).
 

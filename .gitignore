@@ -6,3 +6,4 @@ _site
 .tweet-cache/
 Gemfile.lock
 .history/
+vendor/
