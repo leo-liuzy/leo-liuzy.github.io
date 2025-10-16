@@ -132,7 +132,7 @@ abstract = "Language agents show potential in being capable of utilizing natural
   abbr={arxiv},
   booktitle = {arxiv},
   title        = {CodeUpdateArena: Benchmarking Knowledge Editing on {API} Updates},
-  journal      = {In Submission to ICLR 2025},
+  journal      = {arxiv},
   volume       = {abs/2407.06249},
   year         = {2024},
   url          = {https://doi.org/10.48550/arXiv.2407.06249},
@@ -146,4 +146,44 @@ abstract = "Language agents show potential in being capable of utilizing natural
   pdf = {https://arxiv.org/pdf/2407.06249},
   arxiv = {2407.06249},
   abstract={Large language models (LLMs) are increasingly being used to synthesize and reason about source code. The libraries and API functions they invoke are continuously evolving, with functionality being added or changing. Yet, no prior work has studied how an LLM's knowledge about code API functions can be updated. To fill this gap, we present `CodeUpdateArena`, a benchmark for knowledge editing in the code domain. An instance in our benchmark consists of a synthetic API function update paired with a program synthesis example that uses the updated functionality; our goal is to update an LLM to be able to solve this program synthesis example \emph{without providing documentation of the update at inference time}. Compared to knowledge editing for facts, success here is more challenging: a code LLM must reason about the semantics of the modified function rather than just reproduce its syntax. Our dataset is constructed by first prompting GPT-$4$ to generate atomic and executable function updates. Then, for each update, we generate program synthesis examples whose code solutions are prone to use the update. Our benchmark covers updates of various types to 54 functions from seven diverse Python packages, with a total of 670 program synthesis examples. Our experiments show that fine-tuning open-source code LLMs (i.e., DeepSeek, CodeLlama) on documentation of a new update does not allow them to incorporate changes for problem-solving. However, prepending the same information does help, establishing that the information is present, and careful fine-tuning on examples demonstrating the update shows improvement, paving the way for better knowledge editing techniques for code.}
+}
+
+@article{ComposableCoT,
+  author       = {Fangcong Yin and
+                  <b>Zeyu Leo Liu</b> and
+                  Liu Leqi and
+                  Xi Ye and
+                  Greg Durrett},
+  abbr={arxiv},
+  booktitle = {arxiv},
+  title        = {Learning Composable Chains-of-Thought},
+  journal      = {In Submission to ICLR 2026},
+  volume       = {abs/2505.22635},
+  year         = {2025},
+  
+  eprinttype    = {arXiv},
+  eprint       = {2505.22635},
+  timestamp    = {Thu, 26 May 2025 12:00:00 +0000},
+  pdf = {https://arxiv.org/pdf/2505.22635},
+  arxiv = {2505.22635},
+  abstract={A common approach for teaching large language models (LLMs) to reason is to train on chain-of-thought (CoT) traces of in-distribution reasoning problems, but such annotated data is costly to obtain for every problem of interest. We want reasoning models to generalize beyond their training distribution, and ideally to generalize compositionally: combine atomic reasoning skills to solve harder, unseen reasoning tasks. We take a step towards compositional generalization of reasoning skills when addressing a target compositional task that has no labeled CoT data. We find that simply training models on CoT data of atomic tasks leads to limited generalization, but minimally modifying CoT formats of constituent atomic tasks to be composable can lead to improvements. We can train “atomic CoT” models on the atomic tasks with Composable CoT data and combine them with multitask learning or model merging for better zero-shot performance on the target compositional task. Such a combined model can be further bootstrapped on a small amount of compositional data using rejection sampling fine-tuning (RFT). Results on string operations and natural language skill compositions show that training LLMs on Composable CoT outperforms multitask learning and continued fine-tuning baselines within a given training data budget.}
+}
+
+@article{ComposableCoT,
+  author       = {<b>Zeyu Leo Liu</b> and
+                  Greg Durrett and
+                  Eunsol Choi},
+  abbr={arxiv},
+  booktitle = {arxiv},
+  title        = {PropMEND: Hypernetworks for Knowledge Propagation in LLMs},
+  journal      = {In Submission to ICLR 2026},
+  volume       = {abs/2506.08920},
+  year         = {2025},
+  
+  eprinttype    = {arXiv},
+  eprint       = {2506.08920},
+  timestamp    = {Thu, 26 Jun 2025 12:00:00 +0000},
+  pdf = {https://arxiv.org/pdf/2506.08920},
+  arxiv = {2506.08920},
+  abstract={Knowledge editing techniques for large language models (LLMs) can inject knowledge that is later reproducible verbatim, but they fall short on propagating that knowledge: models cannot answer questions that require reasoning with the injected knowledge. We present a hypernetwork-based approach for knowledge propagation, named PropMEND, where we meta-learn how to modify gradients of a language modeling loss to encourage injected information to propagate. Our approach extends the meta-objective of MEND [29] so that gradient updates on knowledge are transformed to enable answering multi-hop questions involving that knowledge. We show improved performance on the RippleEdit dataset, showing almost 2×accuracy on challenging multi-hop questions whose answers are not explicitly stated in the injected fact. We further introduce a new dataset, Controlled RippleEdit, to evaluate the generalization of our hypernetwork, testing knowledge propagation along relations and entities unseen during hypernetwork training. PropMEND still outperforms existing approaches in unseen entity-relation pairs, yet the performance gap decreases substantially, suggesting future work in propagating knowledge to a wide range of relations.}
 }
