@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Start new journey at Salesforce as a Research Scientist! 🎉
+Start new journey at Salesforce AI Research as a Research Scientist! 🎉
