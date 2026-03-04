@@ -1,0 +1,6 @@
+{% assign ln_parts = site.last_name | split: " " %}
+{% if ln_parts.size >= 2 and site.last_name_pinyin %}
+  {{ ln_parts[0] }} {% include name_ruby.liquid chinese=ln_parts[1] pinyin=site.last_name_pinyin %}
+{% else %}
+  {{ site.last_name }}
+{% endif %}
