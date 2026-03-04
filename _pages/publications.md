@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-
+**\*** = equal contribution, $\alpha$ = sorted alphabetically or randomly
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
