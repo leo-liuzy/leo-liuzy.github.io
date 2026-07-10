@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-10'
 papers:
   TiQTvyYAAAAJ:2osOgNQ5qMEC:
     citations: 18
     title: Emergent Communication Fine-tuning (EC-FT) for Pretrained Language Models
     year: '2022'
   TiQTvyYAAAAJ:5nxA0vEk-isC:
-    citations: 3
+    citations: 4
     title: 'SSR: Socratic Self-Refine for Large Language Model Reasoning'
     year: '2025'
   TiQTvyYAAAAJ:9yKSN-GCB0IC:
@@ -14,11 +14,11 @@ papers:
     title: Learning to translate by learning to communicate
     year: '2023'
   TiQTvyYAAAAJ:IjCSPb-OGe4C:
-    citations: 173
+    citations: 177
     title: 'OpenAgents: An Open Platform for Language Agents in the Wild'
     year: '2023'
   TiQTvyYAAAAJ:LkGwnXOMwfcC:
-    citations: 3
+    citations: 4
     title: Learning Composable Chains-of-Thought
     year: '2025'
   TiQTvyYAAAAJ:d1gkVwhDpl0C:
@@ -34,14 +34,14 @@ papers:
     title: Towards A Unified View of Sparse Feed-Forward Network in Pretraining Large Language Model
     year: '2023'
   TiQTvyYAAAAJ:roLk4NBRz8UC:
-    citations: 33
+    citations: 35
     title: 'Chartmuseum: Testing visual reasoning capabilities of large vision-language models'
     year: '2026'
   TiQTvyYAAAAJ:u-x6o8ySG0sC:
-    citations: 114
+    citations: 116
     title: 'Probing across time: What does RoBERTa know and when?'
     year: '2021'
   TiQTvyYAAAAJ:zYLM7Y9cAGgC:
-    citations: 25
+    citations: 26
     title: 'Codeupdatearena: Benchmarking Knowledge Editing on API updates'
     year: '2024'
