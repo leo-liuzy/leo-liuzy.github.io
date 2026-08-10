@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-10'
 papers:
   TiQTvyYAAAAJ:2osOgNQ5qMEC:
     citations: 19
@@ -14,7 +14,7 @@ papers:
     title: Learning to translate by learning to communicate
     year: '2023'
   TiQTvyYAAAAJ:IjCSPb-OGe4C:
-    citations: 163
+    citations: 165
     title: 'OpenAgents: An Open Platform for Language Agents in the Wild'
     year: '2023'
   TiQTvyYAAAAJ:LkGwnXOMwfcC:
@@ -34,14 +34,14 @@ papers:
     title: Towards A Unified View of Sparse Feed-Forward Network in Pretraining Large Language Model
     year: '2023'
   TiQTvyYAAAAJ:roLk4NBRz8UC:
-    citations: 37
+    citations: 38
     title: 'Chartmuseum: Testing visual reasoning capabilities of large vision-language models'
     year: '2026'
   TiQTvyYAAAAJ:u-x6o8ySG0sC:
-    citations: 115
+    citations: 116
     title: 'Probing across time: What does RoBERTa know and when?'
     year: '2021'
   TiQTvyYAAAAJ:zYLM7Y9cAGgC:
-    citations: 27
+    citations: 28
     title: 'Codeupdatearena: Benchmarking Knowledge Editing on API updates'
     year: '2024'
