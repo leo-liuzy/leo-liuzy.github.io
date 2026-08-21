@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-21'
 papers:
   TiQTvyYAAAAJ:2osOgNQ5qMEC:
     citations: 19
@@ -14,7 +14,7 @@ papers:
     title: Learning to translate by learning to communicate
     year: '2023'
   TiQTvyYAAAAJ:IjCSPb-OGe4C:
-    citations: 165
+    citations: 166
     title: 'OpenAgents: An Open Platform for Language Agents in the Wild'
     year: '2023'
   TiQTvyYAAAAJ:LkGwnXOMwfcC:
@@ -22,19 +22,23 @@ papers:
     title: Learning Composable Chains-of-Thought
     year: '2025'
   TiQTvyYAAAAJ:d1gkVwhDpl0C:
-    citations: 47
+    citations: 48
     title: 'Linguistically-informed transformations (LIT): A method for automatically generating contrast sets'
     year: '2020'
   TiQTvyYAAAAJ:hqOjcs7Dif8C:
     citations: 1
     title: 'PropMEND: Hypernetworks for Knowledge Propagation in LLMs'
     year: '2025'
+  TiQTvyYAAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: 'Procedural Memory Distillation: Online Reflection for Self-Improving Language Models'
+    year: '2026'
   TiQTvyYAAAAJ:qjMakFHDy7sC:
     citations: 18
     title: Towards A Unified View of Sparse Feed-Forward Network in Pretraining Large Language Model
     year: '2023'
   TiQTvyYAAAAJ:roLk4NBRz8UC:
-    citations: 38
+    citations: 42
     title: 'Chartmuseum: Testing visual reasoning capabilities of large vision-language models'
     year: '2026'
   TiQTvyYAAAAJ:u-x6o8ySG0sC:
@@ -42,6 +46,6 @@ papers:
     title: 'Probing across time: What does RoBERTa know and when?'
     year: '2021'
   TiQTvyYAAAAJ:zYLM7Y9cAGgC:
-    citations: 28
+    citations: 29
     title: 'Codeupdatearena: Benchmarking Knowledge Editing on API updates'
     year: '2024'
